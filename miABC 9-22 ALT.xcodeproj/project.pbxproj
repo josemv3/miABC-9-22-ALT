@@ -14,6 +14,7 @@
 		E0B3B8A828BD48B8005D09D0 /* miABC_9_22_ALT.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E0B3B8A628BD48B8005D09D0 /* miABC_9_22_ALT.xcdatamodeld */; };
 		E0B3B8AA28BD48BA005D09D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0B3B8A928BD48BA005D09D0 /* Assets.xcassets */; };
 		E0B3B8AD28BD48BA005D09D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0B3B8AB28BD48BA005D09D0 /* LaunchScreen.storyboard */; };
+		E0B3B8B528BD4D3A005D09D0 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0B3B8B428BD4D3A005D09D0 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E0B3B8A928BD48BA005D09D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0B3B8AC28BD48BA005D09D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E0B3B8AE28BD48BA005D09D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0B3B8B428BD4D3A005D09D0 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E0B3B89D28BD48B8005D09D0 /* AppDelegate.swift */,
 				E0B3B89F28BD48B8005D09D0 /* SceneDelegate.swift */,
 				E0B3B8A128BD48B8005D09D0 /* ViewController.swift */,
+				E0B3B8B428BD4D3A005D09D0 /* CollectionViewCell.swift */,
 				E0B3B8A328BD48B8005D09D0 /* Main.storyboard */,
 				E0B3B8A928BD48BA005D09D0 /* Assets.xcassets */,
 				E0B3B8AB28BD48BA005D09D0 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0B3B8B528BD4D3A005D09D0 /* CollectionViewCell.swift in Sources */,
 				E0B3B8A228BD48B8005D09D0 /* ViewController.swift in Sources */,
 				E0B3B89E28BD48B8005D09D0 /* AppDelegate.swift in Sources */,
 				E0B3B8A828BD48B8005D09D0 /* miABC_9_22_ALT.xcdatamodeld in Sources */,
